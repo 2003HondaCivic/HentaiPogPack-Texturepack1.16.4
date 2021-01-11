@@ -1,0 +1,7 @@
+INSTRUCTIONS
+MAKE NEW FOLDER NAMED "PogPack"
+PUT "pack.mcmeta" AND "pack.png" IN THE FOLDER
+MAKE A NEW FOLDER INSIDE "PogPack" CALLED "assets" AND IN THAT FODLER MAKE A FOLDER CALLED "minecraft"
+UNZIP THE .RAR FILES "blockstates,font,lang,mcpatcher,models,particles,shaders,sounds,texts,textures" INTO FOLDERS WITH THE COORESPONDING NAMES
+PUT THE FOLDERS IN THE "minecraft" FOLDER, ALONG WITH "gpu_warnlist.json"
+DONE, DRAG THE  'PogPack" FOLDER INTO YOUR RESOURCEPACK FOLDER IN MINECRAFT
